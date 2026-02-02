@@ -1,10 +1,10 @@
 {
   "name": "redactify",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js package for automatic sensitive data redaction in logs",
   "main": "index.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["redact", "logging", "sensitive data", "security"],
+  "author": "Albert Septian Gulo",
+  "license": "MIT",
   "type": "commonjs"
 }

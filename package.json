@@ -1,10 +1,26 @@
 {
-  "name": "redactify",
+  "name": "@alberttsgl/redactify",
   "version": "1.0.0",
   "description": "Node.js package for automatic sensitive data redaction in logs",
-  "main": "index.js",
-  "keywords": ["redact", "logging", "sensitive data", "security"],
-  "author": "Albert Septian Gulo",
+  "keywords": [
+    "redact",
+    "logging",
+    "sensitive data",
+    "security"
+  ],
+  "homepage": "https://github.com/alberttsegl/redactify#readme",
+  "bugs": {
+    "url": "https://github.com/alberttsegl/redactify/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alberttsegl/redactify.git"
+  },
   "license": "MIT",
-  "type": "commonjs"
+  "author": "Albert Septian Gulo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }

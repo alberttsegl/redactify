@@ -7,4 +7,4 @@ Package ini dirancang untuk mencegah kebocoran data akibat human error, seperti 
 ## Instalasi
 
 ```bash
-npm install @alberttsgl/redactify
+npm i @alberttsgl/redactify
